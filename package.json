@@ -1,0 +1,25 @@
+{
+  "name": "js-library-template",
+  "version": "1.0.0",
+  "description": "A template for publishing an open source JavaScript library, based on Kent C Dodds's Egghead course \"How to Write an Open Source JavaScript Library\", with updates such as the use of Jest instead of Mocha and Chai",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masakudamatsu/js-library-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Masa Kudamatsu <masakudamatsu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masakudamatsu/js-library-template/issues"
+  },
+  "homepage": "https://github.com/masakudamatsu/js-library-template#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
